@@ -20,17 +20,21 @@ The canonical URL assumes the GitHub Pages custom-domain configuration already i
 - 5 official OKX documentation links, clearly marked as date/region-dependent.
 - 5 related guide cards: Grey, nsave, Bybit, Binance registration, and International Payment Guide.
 - Centralized legal and contact links to `https://dev.majdfatihy.com/`; no duplicate about/contact/privacy/terms/disclaimer files.
-- Canonical, hreflang, OG/Twitter meta tags, Schema.org WebPage, FAQPage, BreadcrumbList, ItemList and VideoObject metadata, and social share PNG.
+- Canonical, hreflang, OG/Twitter meta tags, structured data, a verified public YouTube thumbnail URL for visual and social previews.
 - No local `robots.txt` or `sitemap.xml`: those belong to the main site; once deployed, optionally update the central sitemap in the main repository after approval.
 - The owner-provided Google Tag Manager loader (`GTM-P2PDLCWJ`) is included on both language pages. Google Fonts are loaded from CSS, and YouTube embeds are loaded only after a click.
 
 ## Deployment
 
 1. Use the public repository `okx-card-guide`.
-2. Upload this folder's contents to the repository root. Keep `en/index.html` and `assets/` in their paths.
+2. The source has been uploaded to the repository root; keep `en/index.html`, `videos.json`, and `assets/` in their paths.
 3. Enable Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
-4. Verify both language URLs, images, referral link, footer links, and social preview.
+4. Verify both language URLs, remote YouTube preview image, referral link, footer links, and social preview.
 5. After publication, decide whether to add the two URLs to the CENTRAL sitemap of `majdfatihy.github.io`; this package does not modify the main repo.
+
+## Upload note
+
+The original ZIP contains large custom PNG assets which were not transferred by the connected text-file GitHub write interface. The published HTML instead uses the **verified public YouTube thumbnail** for the featured image and Open Graph preview, so there are no broken image references. This is a documented difference from the preview ZIP; the original custom images are still available in that archive for subsequent manual replacement if desired.
 
 ## Source audit
 
