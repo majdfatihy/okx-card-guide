@@ -1,0 +1,195 @@
+{
+  "source": "vidIQ user videos (public only)",
+  "channel": "https://www.youtube.com/@majdfatihy",
+  "reviewed": "2026-11-23",
+  "total": 23,
+  "full": 12,
+  "shorts": 11,
+  "notes": "Four private Shorts excluded.",
+  "videos": [
+    {
+      "id": "Xyp0NekCmoM",
+      "title_ar": "شرح كارت OKX Card 2026 | بطاقة فيزا افتراضية للدفع الدولي وشحن USDT والسحب والرسوم والكاش باك",
+      "category": "card",
+      "published": "2026-11-11",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=Xyp0NekCmoM"
+    },
+    {
+      "id": "XD3d37lcie0",
+      "title_ar": "حقيقة رصيد USDT الوهمي في محفظة OKX و Coinbase | كشف خدعة Watch-only وتجميد السحب 2026",
+      "category": "security",
+      "published": "2024-11-08",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=XD3d37lcie0"
+    },
+    {
+      "id": "wf7lTBbnVP8",
+      "title_ar": "بيع تيثر USDT من منصة أوكي إكس OKX",
+      "category": "p2p",
+      "published": "2024-05-03",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=wf7lTBbnVP8"
+    },
+    {
+      "id": "NFUcLU-_ja8",
+      "title_ar": "شراء تيثر USDT من منصة أوكي إكس OKX",
+      "category": "p2p",
+      "published": "2024-05-03",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=NFUcLU-_ja8"
+    },
+    {
+      "id": "v2cx5ez-lk8",
+      "title_ar": "تحويل وبيع العملة في OKX",
+      "category": "transfer",
+      "published": "2024-04-05",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=v2cx5ez-lk8"
+    },
+    {
+      "id": "6oFZTTWnxrM",
+      "title_ar": "طريقة الإيداع والسحب من منصة OKX | تداول العملات الرقمية",
+      "category": "transfer",
+      "published": "2024-01-24",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=6oFZTTWnxrM"
+    },
+    {
+      "id": "-NLYalABzXw",
+      "title_ar": "طريقة الإيداع والاستلام في منصة OKX",
+      "category": "transfer",
+      "published": "2024-01-24",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=-NLYalABzXw"
+    },
+    {
+      "id": "kwzSqV8y1iU",
+      "title_ar": "سحب عملات SWEAT على محفظة OKX",
+      "category": "wallet",
+      "published": "2024-01-23",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=kwzSqV8y1iU"
+    },
+    {
+      "id": "XElvLla9ffE",
+      "title_ar": "إنشاء وتوثيق حساب OKX لتداول العملات الرقمية",
+      "category": "account",
+      "published": "2023-09-26",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=XElvLla9ffE"
+    },
+    {
+      "id": "srmfbFTVdbk",
+      "title_ar": "تسجيل الدخول إلى محفظة OKX",
+      "category": "wallet",
+      "published": "2023-09-26",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=srmfbFTVdbk"
+    },
+    {
+      "id": "l8kf1Xu0Bv8",
+      "title_ar": "الحصول على كلمات المرور لمحفظة OKX للعملات الرقمية",
+      "category": "security",
+      "published": "2023-09-26",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=l8kf1Xu0Bv8"
+    },
+    {
+      "id": "h_z2y0EAil0",
+      "title_ar": "طريقة إنشاء محفظة OKX Wallet",
+      "category": "wallet",
+      "published": "2023-09-26",
+      "type": "long",
+      "url": "https://www.youtube.com/watch?v=h_z2y0EAil0"
+    },
+    {
+      "id": "IxfGbR-ljwY",
+      "title_ar": "كيفية تجميد كارت OKX وحماية البطاقة من الاستخدام غير المصرح | الجزء 07",
+      "category": "security",
+      "published": "2026-11-22",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=IxfGbR-ljwY"
+    },
+    {
+      "id": "tkaAwe_eJh0",
+      "title_ar": "طريقة تحويل الرصيد من حساب التداول إلى OKX Pay | الجزء 06",
+      "category": "transfer",
+      "published": "2026-11-22",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=tkaAwe_eJh0"
+    },
+    {
+      "id": "dRuAaHW-5jw",
+      "title_ar": "طريقة شراء USDT عبر P2P وإضافة وسيلة الدفع في OKX | الجزء 05",
+      "category": "p2p",
+      "published": "2026-11-22",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=dRuAaHW-5jw"
+    },
+    {
+      "id": "n_dzqlrH7z0",
+      "title_ar": "نسب كاش باك كارت OKX والحد الأقصى للمكافآت | الجزء 10",
+      "category": "cashback",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=n_dzqlrH7z0"
+    },
+    {
+      "id": "QK8GD9bOLt4",
+      "title_ar": "سحب الأموال من OKX إلى فودافون كاش عبر P2P | الجزء 12",
+      "category": "p2p",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=QK8GD9bOLt4"
+    },
+    {
+      "id": "oal59mmwDBw",
+      "title_ar": "شراء USDT بفودافون كاش أو إنستاباي من منصة OKX | الجزء 04",
+      "category": "p2p",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=oal59mmwDBw"
+    },
+    {
+      "id": "M6ncKKL40tI",
+      "title_ar": "حل مشكلة عدم اكتمال طلب كارت OKX وتوثيق الحساب | الجزء 02",
+      "category": "account",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=M6ncKKL40tI"
+    },
+    {
+      "id": "jD9dnEHMMao",
+      "title_ar": "طريقة شحن كارت OKX والفرق بين USDT وUSDC | الجزء 03",
+      "category": "card",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=jD9dnEHMMao"
+    },
+    {
+      "id": "ixGegHORUmU",
+      "title_ar": "كارت OKX الافتراضي: طريقة إصدار البطاقة وتفعيلها خطوة بخطوة | الجزء 01",
+      "category": "card",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=ixGegHORUmU"
+    },
+    {
+      "id": "5F76YQ2eOTQ",
+      "title_ar": "رسوم كارت OKX: تكلفة الإصدار والتحويل والدفع | الجزء 13",
+      "category": "fees",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=5F76YQ2eOTQ"
+    },
+    {
+      "id": "tG6ZEMEiNdY",
+      "title_ar": "شروط كاش باك 50% على اشتراك ChatGPT باستخدام كارت OKX | الجزء 15",
+      "category": "cashback",
+      "published": "2026-11-12",
+      "type": "short",
+      "url": "https://www.youtube.com/watch?v=tG6ZEMEiNdY"
+    }
+  ]
+}
